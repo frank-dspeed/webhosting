@@ -10,6 +10,9 @@ https://github.com/lovell/sharp
 https://github.com/mdn/browser-compat-data
 https://webhint.io/docs/user-guide/hints/hint-compat-api/
 https://google/pagespeed
+
+serve always gzip
+
 <html>......
   
   
